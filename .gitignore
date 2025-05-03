@@ -1,0 +1,10 @@
+# Go
+bin/
+*.exe
+*.log
+*.out
+*.test
+vendor/
+
+# MacOS
+.DS_Store
